@@ -1,0 +1,1 @@
+Service layer and DAO implementation with cake pattern in Scala
